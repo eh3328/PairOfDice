@@ -1,12 +1,4 @@
 # PairOfDice
-/**
- * @(#)PairOfDice.java
- *
- *
- * @author 
- * @version 1.00 2018/12/7
- */
-
 import java.util.Random;
 public class PairOfDice 
 {
@@ -34,7 +26,6 @@ public class PairOfDice
 		x++;
 	}
     }
-    //count/1000=num1;
     System.out.println("The rate is "+count/1000);
 }
 }
