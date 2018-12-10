@@ -19,7 +19,7 @@ public class PairOfDice
     {
     	count++;
     	x++;
-    System.out.println("You got "+count+" Box Cars!");
+    System.out.println("You got "+count+" Double Sixes!");
 	}
 	else
 	{
