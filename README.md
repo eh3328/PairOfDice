@@ -1,9 +1,12 @@
 # PairOfDice
 
-import java.util.Random;
-public class PairOfDice 
-{
+    import java.util.Random;
+    public class PairOfDice 
+    {
+    
+   
     public static void main(String[] args) 
+    
     {
     final int DIGITS = 6;
     double count = 0;
