@@ -1,4 +1,5 @@
 # PairOfDice
+
 import java.util.Random;
 public class PairOfDice 
 {
@@ -9,7 +10,7 @@ public class PairOfDice
     int Dice1 = 1;
     int Dice2 = 1;
     int x = 0;
-    //int num1();
+
 	while(x<=1000)
 	{
     Dice1 = (int) (Math.random() * DIGITS);
